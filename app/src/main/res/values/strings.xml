@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MSU Philosophy and Religion</string>
+    <string name="app_version">Version 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_philosphy_home">Philosophy and Religion Home</string>
+    <string name="title_activity_news__events">News and Events</string>
+    <string name="title_activity_faculty">Faculty</string>
+    <string name="title_activity_major">Major</string>
+    <string name="religion_major">RELIGION MAJOR</string>
+    <string name="title_activity_minor">Minor</string>
+    <string name="religion_minor">RELIGION MINOR</string>
+    <string name="title_activity_graduates">Graduates</string>
+    <string name="title_activity_benfield__prize">Benfield Prize</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_msu__home">MSU Home</string>
+    <string name="prize_information">David Benfield Philosophy Essay Prize</string>
+    <string name="award_date">Spring 2015 Awards</string>
+    <string name="first_second">First place $200.00*\nSecond place $100.00*</string>
+    <string name="prize_funded">These awards are made possible through a generous grant from the
+        Fortune Title Agency of Roseland, NJ.</string>
+    <string name="submission_deadline">Submission Deadline: March 13, 2015</string>
+    <string name="essay">Essays will be judged by a panel of MSU Philosophy faculty members.
+        Winning essays will be selected on the basis of philosophical content, rigor of
+        argumentation, style and composition.</string>
+    <string name="requirement">Requirements</string>
+    <string name="required_info">• Essays on any topic in philosophy may be submitted.\n
+        • The author of the essay must be enrolled as a Philosophy Major or Minor at Montclair
+        State University.\n
+        • The essay may be a revised course essay or a newly composed essay.\n
+        • A student may submit only one essay for consideration per year.\n
+        • Essays submitted previously may not be submitted a second time.</string>
+    <string name="instructions">Instructions</string>
+    <string name="instruction_info">• Essays should be formatted properly: standard font, standard
+        margins, double-spaced, etc.\n
+        • The length of your submission should be between 2,000 and 3,500 words (approximately
+        6\u002D12 pages).\n
+        • Essays must include a proper bibliography.\n
+        • Email your essay as an attachment to Tiger Roholt:</string>
+    <string name="prize_contact">roholtt@mail.montclair.edu</string>
+    <string name="instruction_info1"> (submit only one of the following file types: \u0022pdf\u0022
+        \u0022doc\u0022 \u0022docx\u0022 \u0022pages\u0022)\n
+        • Essays should be prepared for blind review (The author\u0027s name should not appear
+        anywhere in the essay). The author\u0027s name should appear in the body of the email.</string>
+    <string name="winner_info">\u002AFunds will be credited to the winner’s account at Montclair
+        State University.</string>
+    
+    <string name="courses">Fall 2015 Courses</string>
+    <string name="class1">PHIL 270 Philosophy of Mind</string>
+    <string name="class1_info">Staff\nT 5:30-8:00pm\nWe will explore the following first order
+        questions: Is your mind really just your brain?  Is having a mind the same as having
+        a soul? Could humans survive bodily death by uploading their minds to a computer? Could
+        a computer ever have qualitative experiences? What makes the mental causally efficacious
+        rather than causally inert and epiphenomenal?</string>
+    <string name="class2">PHIL 310 Knowledge, Belief \u0026 Truth</string>
+    <string name="class2_info">Dr. McDermid\nTR 11:30am\u002D12:45pm\nThis course will survey
+        questions about the nature and possibility of knowledge (the study of epistemology).
+        It\u0027s easiest to explain what the course is about, by saying it’s about a collection
+        of questions like these: What is knowledge? Where do we get knowledge? How do we know we
+        know something? What is truth? These are, obviously, pretty abstract questions\u002Dthe
+        sort philosophy is famous for. And yet, they do have some practical consequences, depending
+        upon how you answer them. We will be investigating both the abstract and the more-concrete
+        implications of a wide variety of epistemological positions, from skepticism to naive
+        realism, and their intersections with other philosophical issues in metaphysics, ethics,
+        political and social philosophy.</string>
+    <string name="class3">PHIL 331 History of Philosophy: Ancient</string>
+    <string name="class3_info">Dr. Herrera\nW 5:30-8:00pm\nAn introduction to the major figures
+        of classical philosophy in the ancient world. The course will focus on the writings of
+        Plato and Aristotle, the two greatest and most influential thinkers in ancient philosophy.
+        The course will also cover the beginnings of philosophy in the Pre-Socratics. The course
+        will examine issues including truth, beauty, and goodness; democracy and freedom;
+        knowledge, reason, and experience; and reality, time, space, infinity, and God.</string>
+    <string name="class4">PHIL 339 Contemporary Continental Philosophy</string>
+    <string name="class4_info">Dr. Roholt\nT 1:00-3:30pm\nThis course surveys the four main
+        movements of the continental (European) philosophical tradition: (1) 19th century German
+        philosophy, (2) Marxism/critical theory, (3) phenomenology/existentialism, and (4)
+        post\u002Dstructuralism/post\u002Dmodernism. This philosophical tradition runs from
+        the late 19th Century to the present day. Continental philosophy stands in contrast to
+        the dominant, Anglo\u002DAmerican, \u0022analytic\u0022 philosophical tradition. This
+        course gives students the opportunity to examine the ways in which continental philosophers
+        approach issues in the core subfields of philosophy, such as epistemology, metaphysics,
+        ethics, political philosophy, and aesthetics. Students will also have the opportunity to
+        explore similarities to and differences from the analytic philosophical tradition. We
+        will focus on philosophers such as Hegel, Nietzsche, Marx, Adorno, Heidegger, Merleau\u002D
+        Ponty, and Foucault.</string>
+    <string name="class5">PHIL 424 Seminar: Women Philosophers</string>
+    <string name="class5_info">Dr. Rogers\nR 1:00-3:30pm\nPerhaps the best\u002Dkept secret in
+        philosophy is the number of women who were engaged in philosophical discussions alongside
+        familiar and influential men in the history of the discipline. In this course, we will read
+        works of three major women philosophers: Christine di Pizan\u0027s The Body Politic
+        (15th century); Mary Wollstonecraft\u0027s The Vindications (18th century);
+        and Simone de Beauvoir\u0027s Ethics of Ambiguity (20th century). The aim of the course
+        is threefold: To analyze these works in and of themselves, to understand them in the
+        context of the larger philosophical tradition, and to evaluate them in relation to each
+        other as part of the \u0022genealogy of women\u0027s thought.\u0022 Please note that
+        women philosophers were not necessarily feminists. In this course for instance, only some
+        of Wollstonecraft\u0027s work is intentionally feminist. Students interested in studying
+        other women philosophers (feminist or not) will have the opportunity to do so, but interest
+        in feminism is not necessary to benefit from this course.</string>
+    
+    <string-array name="professor_names">
+        <item>David Benfield</item>
+        <item>Roland Garrett</item>
+        <item>Christopher Herrera</item>
+        <item>Kirk McDermid</item>
+        <item>Dorothy Rogers</item>
+        <item>Tiger Roholt</item>
+        <item>Mark Clatterbuck</item>
+        <item>Cynthia Eller</item>
+        <item>Yasir Ibrahim</item>
+        <item>Stephen Johnson</item>
+        <item>Michael Kogan</item>
+        <item>Lise Vail</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>448 Dickson Hall</item>
+        <item>452 Dickson Hall</item>
+        <item>451 Dickson Hall</item>
+        <item>444 Dickson Hall</item>
+        <item>455 Dickson Hall</item>
+        <item>411 Dickson Hall</item>
+        <item>443 Dickson Hall</item>
+        <item>450 Dickson Hall</item>
+        <item>449 Dickson Hall</item>
+        <item>453 Dickson Hall</item>
+        <item>445 Dickson Hall</item>
+        <item>447 Dickson Hall</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Professor of Philosophy</item>
+        <item>Professor of Philosophy</item>
+        <item>Associate Professor of Philosophy</item>
+        <item>Assistant Professor of Philosophy</item>
+        <item>Associate Professor of Philosophy</item>
+        <item>Associate Professor of Philosophy</item>
+        <item>Assistant Professor of Religion</item>
+        <item>Professor of Religion</item>
+        <item>Associate Professor of Religion</item>
+        <item>Professor of Religion</item>
+        <item>Professor of Religion</item>
+        <item>tenured Assistant Professor of Religion</item>
+    </string-array>
+    <string name="title_activity_faculty__informartion">Faculty Informartion</string>
+    <string-array name="phone">
+        <item>(973) 655-4438</item>
+        <item>(973) 655-5133</item>
+        <item>(973) 655-4435</item>
+        <item>(973) 655-6975</item>
+        <item>(973) 655-7933</item>
+        <item>(973) 655-7556</item>
+        <item>(973) 655-7414</item>
+        <item>(973) 655-7416</item>
+        <item>(973) 655-7418</item>
+        <item>(973) 655-7415</item>
+        <item>(973) 655-5144</item>
+        <item>(973) 655-7406</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>benfieldd@mail.montclair.edu</item>
+        <item>garrettr@mail.montclair.edu</item>
+        <item>herrerach@mail.montclair.edu</item>
+        <item>mcdermidk@mail.montclair.edu</item>
+        <item>rogersd@mail.montclair.edu</item>
+        <item>roholtt@mail.montclair.edu</item>
+        <item>clatterbuckm@mail.montclair.edu</item>
+        <item>ellerc@mail.montclair.edu</item>
+        <item>ibrahimy@mail.montclair.edu</item>
+        <item>johnsons@mail.montclair.edu</item>
+        <item>koganm@mail.montclair.edu</item>
+        <item>vaill@mail.montclair.edu</item>
+    </string-array>
+
+    <string-array name="information">
+        <item>David Benfield (Professor of Philosophy) received his Ph.D. from Brown University.
+            He has published articles in Kant Studien, Philosophy and Phenomenological Research,
+            and Philosophical Studies. His research interests include the Wason Task (and why the
+            "right" answer isn\u0027t really right),the analysis of fictional objects, the ethical
+            and social aspects of cyberspace, and the new public atheism. Courses he regularly
+            teaches include: Introduction to Philosophy, Logic, Theory of Knowledge, Philosophy
+            of Religion, and Philosophy of Mind.In addition, he is a regular instructor in two
+            team-taught courses: GenEd 2002 Contemporary Issues, and the Cooperative Education
+            Seminar in the Liberal Arts. He a member of the Executive Committee of the New Jersey
+            Regional Philosophical Association.</item>
+        <item>Roland Garrett (Professor of Philosophy) received his Ph.D. from Columbia University.
+            He has published numerous articles on a variety of philosophical topics. His research
+            interests include pragmatism, the philosophy of John Dewey, and the philosophy of art.
+            Courses he regularly teaches include: American Philosophy, Metaphysics, and Modern
+            Philosophy.</item>
+        <item>Chris Herrera (Associate Professor of Philosophy) received his Ph.D. from the
+            University of Oklahoma. His research interests include research ethics, the philosophy
+            of sport, and the philosophy of science. Courses he regularly teaches include: Theoretical
+            and Applied Ethics, Logic, Philosophical Issues in Biomedical Research, and Ancient
+            Philosophy.</item>
+        <item>Kirk McDermid (Assistant Professor of Philosophy) received his Ph.D. from the
+            University of Western Ontario. He has published articles on the philosophy of quantum
+            mechanics. His research interests include the philosophy of science, logic, and
+            philosophical issues involved in the creationism/evolutionism debate. Courses he
+            regularly teaches include: Philosophy of Science, Introduction to Philosophy, and the
+            Philosophy of Biology.</item>
+        <item>Dorothy Rogers (Associate Professor of Philosophy) earned her Ph.D. as well as a
+            master\u0027s in theological studies from Boston University. She is the author of America\u0027s
+            First Women Philosophers: Transplanting Hegel, and has served as editor of collections
+            of the works of neglected women philosophers, including Catharine Beecher, the women of
+            the St. Louis Philosophical Movement, and women in the American academy (1880-1900). She
+            served as the coordinating editor for entries on women for theDictionary of Modern
+            American Philosophers and is currently serving the same role for the upcoming Dictionary
+            of Early American Philosophers, both published by Thoemmes Press. She is a member of the
+            Society of Women in Philosophy, the Society for the Study of Women Philosophers, and
+            the Society for the Advancement of American Philosophy. She is currently exploring the
+            connections between feminism, altruism, and pacifism in political life. Dorothy
+            regularly teaches Introduction to Ethics, Social and Political Philosophy, Philosophy
+            of Law, and Feminist Legal Theory.</item>
+        <item>Tiger Roholt (Associate Professor of Philosophy) received his Ph.D. from Columbia
+            University in 2007. His research interests include the philosophy of art, the philosophy
+            of music, and phenomenology. Courses he teaches include Philosophies of Art,
+            Contemporary Continental Philosophy, Existentialism, and Introduction to Philosophy.
+            He is author of Groove: A Phenomenology of Rhythmic Nuance (Bloomsbury Academic, 2014);
+            Key Terms in Philosophy of Art (Bloomsbury Academic, 2013); \u0022In Praise of Ambiguity:
+            Musical Subtlety and Merleau\u002DPonty\u0022 (Contemporary Aesthetics 11, 2013); \u0022
+            Continental Philosophy and Music\u0022 (in The Routledge Companion to Philosophy and
+            Music, 2011); \u0022Musical Musical Nuance,\u0022 (Journal of Aesthetics and Art
+            Criticism 68, 2010);\u0022Musical Experience\u0022 (in The Oxford Companion to
+            Consciousness, 2009\u002Dalso at Oxford Reference Online). He is currently writing
+            the chapter, \u0022Phenomenology,\u0022 for The Oxford Handbook of Western Music and
+            Philosophy.</item>
+        <item>Mark Clatterbuck (Assistant Professor of Religion) received his Ph.D. from The
+            Catholic University of America. His area of specialization is the Native American
+            encounter with Christianity in the United States. He has published in such scholarly
+            journals as Horizons, The US Catholic Historian, Latin American Indian Literatures
+            Journal, and Missiology. His most recent projects have been oral religious histories
+            focusing on recent developments in Native Catholicism and Native Pentecostalism
+            among eastern Montana\u0027s American Indian communities. His book Demons, Saints,
+            \u0026 Patriots: Catholic Visions of Native America (1902-1962)was published in
+            2009 by Marquette University Press. He teaches Introduction to Religion and courses
+            in Native American Religions.</item>
+        <item>Cynthia Eller (Professor of Religion) received her Ph.D. from the University of
+            Southern California. She has published books on the feminist spirituality movement
+            (Living in the Lap of the Goddess, 1995), feminist theory (Am I a Woman? 2004),
+            matriarchal myth (The Myth of Matriarchal Prehistory, 2001; Gentlemen and Amazons,
+            2011), and pacifism in WWII (Conscientious Objectors and the Second World War, 1991).
+            She has written two introductory religious studies textbooks with cloud-based delivery,
+            titled Revealing World Religions and Revealing Religion (published by Thinking Strings,
+            2004 and 2014). Both are used throughout the United States and Canada. She regularly
+            teaches Religions of the World, Introduction to Religion, Atheism, Wicca and
+            Neo-Paganism, New Religious Movements, and additional courses for the Women\u0027s
+            and Gender Studies program. </item>
+        <item>Yasir Ibrahim (Associate Professor of Religion) received his Ph.D. from Princeton
+            University. He is a specialist on Islam. Courses he regularly teaches include: Islamic
+            Religious Traditions; Jihad: Just War, Holy War; Islamic Ethics and Law; and
+            Introduction to Religion. His research interests include twentieth-centuryIslamic
+            reform movements in the Middle East, Islamic legal theory and Qur\u0027anic studies.
+            His recent publications include articles published in the journals Studia Islamica,
+            Journal of Islamic Studies and the Journal of Ecumenical Studies.</item>
+        <item>Stephen M. Johnson (Professor of Religion) received his Ph.D. from Yale University.
+            Since joining this department in 1971, he has served as President of the American
+            Academy of Religion\u0027s Mid\u002DAtlantic Region, and as regional editorial
+            representative for the Academy\u0027s Spotlight on Teaching. His own articles and
+            review articles have appeared in such scholarly journals as Popular Culture Review,
+            Higher Education Exchange, Public Affairs Quarterly, and Implicit Religion. Some
+            recent articles include \u0022American Civic Religion after 9/11\u0022 and \u0022Faith,
+            Facts, and Fidelity: H. Richard Niebuhr\u0027s Anonymous God.\u0022 He also wrote
+            \u0022Mourning in America,\u0022 the concluding chapter of Praeger\u0027s three-volume
+            Religion, Death and Dying in America. Dr. Johnson regularly teaches Religion and
+            Culture; Religion in North America; Religion and Social Change; Religion and
+            Psychology; and Myth, Meaning, and Self.</item>
+        <item>Michael S. Kogan (Professor of Religion) received his Ph.D. from Syracuse University.
+            He is an active participant in the Jewish-Christian dialogue and the author of several
+            very influential articles on its theological foundations. His new book, Opening the
+            Covenant: A Jewish Theology of Christianity, was published in November 2007 by Oxford
+            University Press. Dr. Kogan\u0027s research interests include contemporary Jewish and
+            Christian thought, biblical hermeneutics, and existential theology. Courses he
+            regularly teaches include: Old and New Testaments, Contemporary Jewish Thought,
+            Religious Existentialism, The Thought of S\u00F8ren Kierkegaard, Heidegger\u0027s Being and
+            Time, Modern Theology, and Religion and the Poetic Imagination (T. S. Eliot).</item>
+        <item>Lise Vail (tenured Assistant Professor of Religion) received her M.A. from Princeton
+            University and Ph.D. from the University of Pennsylvania. She is a Hinduism specialist
+            who has lived and worked in southwest India, and has published in the areas of Kashmiri
+            Shaiva \u0026 Virashaiva philosophies, and the impact of monks and poet\u002Dsaints on
+            the religious communities they serve. She has collaborated on the
+            translation/commentary of a 10th\u002Dcentury Kashmiri Sanskrit scripture,
+            Recognition of Divine Splendor, and published articles such as \u0022Ascetic
+            Masquerade in the Samnyasa Upanisads,\u0022 \u0022Unlike a Fool He Is Not Defiled:
+            Purity \u0026 Ethics in the Samnyasa Upanishads,\u0022 and \u0022Guru\u002DCurses\u0026
+            Moral Accountability: Popular Ethical Values in N. Karnataka,\u0022 as well as a
+            chapter in Gods of Flesh, Gods of Stone: The Embodiment of Divinity in India
+            (Columbia University Press), and numerous articles on the saints \u0026 philosophies
+            of India for Darshan magazine. Dr. Vail is currently completing a project on Virashaiva
+            lineage gurus (15th-20th centuries) and another on monks in late 19th\u002Dcentury
+            Anglo-Indian court cases. She teaches broadly in Asian and World Religions, including
+            courses entitled Hinduism, Buddhism, Taoism, Mysticism, Yoga Texts, and Death, Dying
+            \u0026 Afterlife.</item>
+    </string-array>
+
+    <string-array name="graduate_names">
+        <item>Rika Dunlap</item>
+        <item>Peter LaGreca</item>
+        <item>Natalie Rusciani</item>
+        <item>Sean Skedzielewski</item>
+        <item>James Owen</item>
+        <item>Ron Chicken</item>
+    </string-array>
+
+    <string-array name="graduate_information">
+        <item>I am currently a Ph.D. candidate for philosophy at the University of Hawaii, Manoa.
+            My experiences at Montclair State University solidified my career path to study
+            comparative philosophy, a discipline that compares and contrasts philosophical ideas
+            rooted in different cultures. During my undergraduate education (Class of \u002707), I
+            majored in philosophy with a minor in legal studies because I was fascinated with the
+            power of reasoning that epitomizes much of philosophy and jurisprudence. Immersed in
+            the study of classical and modern philosophy, I came to realize that even within
+            Western philosophy there are distinct sets of ideas rooted in subtle cultural
+            differences. Fascinated with this knowledge, I became interested in non-Western
+            philosophy, particularly Asian philosophy, to make sense of the ideas inherent in
+            my own culture. Legal studies complemented my study of philosophy, for law embodies
+            the ideas deeply entrenched in the cultural paradigm within the United States.\n \n As
+            an international student from Japan, I was active within the international community
+            at the university. I worked as a student assistant at the Office of International
+            Services, and I also became a student representative for International Student
+            Organization. I worked closely with other international students and learned the
+            importance of cross \u002D cultural dialogues to improve the overall wellbeing of the
+            student community. This lesson is something that I still treasure and apply in my
+            study of comparative philosophy. I believe that cross-cultural studies not only
+            enhance the breadth of philosophical discourses, but also deepen our analyses,
+            allowing us to critically reflect on our own mindsets. My experiences at Montclair
+            State University enriched my life enormously and gave the foundation upon which
+            I develop my work in comparative philosophy now.</item>
+        <item>Peter C. LaGreca, Esq., was awarded a Bachelor of Arts, Summa Cum Laude, from
+            Montclair State University, where he held a dual major in Jurisprudence and
+            Philosophy. Mr. LaGreca earned a Juris Doctor from Pace University School of Law,
+            where he was a Senior Associate on the Pace International Law Review
+            (ranked in the top 33\u0025 of all international specialty law reviews and journals
+            worldwide). Mr. LaGreca is the author of “Natural Rights in a Positive World:
+            Do Habeas Rights Extend to Non\u002DCitizens Detained Abroad?” (Inderscience Publishers),
+            an international authority on habeas corpus.\n \n Mr. LaGreca received the honor of Pace
+            Law School\u0027s Pro Bono Justice Service Award for Extraordinary Service as a result of
+            his work with the Morris County Prosecutor\u0027s Office and the Law School\u0027s Foreclosure
+            \u0026 Predatory Lending Defense Clinic. While serving with the Prosecutor\u0027s Office, Mr.
+            LaGreca assisted in the investigation and prosecution of cases within the Trial Team,
+            Major Crimes Unit, Sex Crimes Unit, Domestic Violence Unit, Juvenile Unit, Appellate
+            Unit, Fraud Unit, and Narcotics Unit/Intelligence Crime Task Force. Among his many
+            responsibilities, Mr. LaGreca handled all facets of motion practice in the Superior
+            Court and proposed recommendations to senior staff on office policy and law
+            enforcement procedure. Prior to this position, Mr. LaGreca proudly served the
+            United States District Court in the Chambers of the Hon. Esther Salas, United
+            States District Judge for the District of New Jersey, and the Hon. Tonianne J.
+            Bongiovanni, Magistrate Judge for the same District.</item>
+        <item>I graduated in 2010 with a BA in Philosophy and English, with a minor in Religion.
+            I currently work full\u002D time as a copy editor for an advertising agency. While making
+            language better may seem like a strictly literary pursuit, the art of communicating
+            knowledge dips just as deeply into my Philosophy degree, particularly epistemology.
+            What does the audience need to know\u003F What type of knowledge is it\u003F How does this
+            medium communicate that\u003F Is it the best medium to use\u002Dhow or why\u003F \n \n
+            When I\u0027m not copy editing, I\u0027m blogging about feminism, particularly body
+            acceptance. The Philosophy and Religion Department has given me lots of
+            resources\u002D whether they be traditions of thought, rhetorical techniques, or
+            recognition of logical fallacies\u002Dto advocate for the things I believe in.
+            I\u0027m also working on a novel that explores the unique ethical and existential
+            struggles facing a fictional God of Chaos; the so\u002D far 55,000\u002D word
+            endeavor would not have been possible without the amazing things I learned in the
+            fourth floor of Dickson.</item>
+        <item>I graduated from MSU in August of 2012 with a B.A. in philosophy, and in May of 2014
+            I completed my M.A. in philosophy from Duquesne University. I\u0027ve presented my work at
+            a number of conferences, and am currently focused on getting some of my work published.
+            I am considering pursuing a Ph.D. in the near future or possibly taking the skills I\u0027ve
+            acquired and applying them in the private sector. Presently I am teaching philosophy
+            courses at Rowan University. My time at Montclair prepared me very well for graduate
+            level work, and the transition was a very easy one for me.</item>
+        <item>James Owen studied Music Education and Minored in Philosophy at Montclair. While
+            at Montclair James became interested in philosophy by reading primary texts and writing
+            a personal \u0022philosophy of education\u0022 in a philosophy of education class.
+            James found the possibility of contributing to a field by research and careful
+            reflection to be refreshing and interesting. After completing a Minor in philosophy
+            and further developing his ability to deal with primary texts, James started a reading
+            group on Martin Heidegger and Maurice Merleau\u002DPonty, which lasted for three years.
+            During the end of his undergraduate studies and during his two years working as a music
+            teacher in a public school, James began synthesizing the skills from studying
+            philosophy with music education and participating and presenting at conferences.
+            James is currently attending KU Leuven in Leuven Belgium for an MA in Philosophy
+            and planning on continued graduate study of Philosophy of Education.</item>
+        <item>With seven family members and four generations of successful alums, choosing to
+            attend Montclair State University was both one of the easiest and best decisions I
+            have ever made. I graduated in \u002709 after majoring in Classics and Religious
+            Studies, as well as earning a minor in Philosophy. In addition to my classroom
+            education, I left Montclair with lifelong friends, irreplaceable memories and an
+            unforgettable student experience. I participated in intramural sports and was involved
+            with countless organizations. I was also elected and served two terms as Student
+            Government President.\n \n
+            After graduation I pursued a Master\u0027s degree at Princeton Theological Seminary
+            in Theology and Philosophy. Building upon the foundation I received from Montclair
+            State, I made it a priority to excel both inside and outside the classroom at
+            Princeton. Academically I pushed myself beyond the normal requirements with PhD
+            seminars at Princeton University. I studied abroad in India and received a fellowship
+            to study in Berlin, Germany. As a full time student I also held leadership roles in
+            intramural sports and took on a unique internship working twenty hours a week at the
+            State Psychiatric Hospital in Trenton, NJ while again serving as a Student Government
+            President. I credit both my academic and extracurricular success at Princeton with the
+            education and mentoring I received from Montclair State University and its superb
+            faculty and administrators.\n \n
+            Since graduating from Princeton I have been working as a pastor in Gloucester City,
+            NJ. Over the past two years I helped restart a youth program at the Highland Park
+            Church of God, worked in the local schools as a substitute teacher, and was elected
+            to the city\u0027s local minister\u0027s ecumenical association as Secretary Treasurer.
+            Following my wedding in June 2014, I plan to continue my education and pursue a
+            Juris Doctorate at the University of Georgia. I am grateful to the professors in both
+            the Philosophy \u0026 Religion and Classics Departments at Montclair, who have always
+            encouraged and supported me, both as a student and as an alumnus. I wish the best of
+            luck to all graduating Red Hawks and urge them to make Montclair proud as they follow
+            their dreams and help create tomorrow.</item>
+    </string-array>
+    <string name="title_activity_religion_minor">Religion Minor</string>
+    <string name="title_activity_religion_major">Religion Major</string>
+
+
+</resources>

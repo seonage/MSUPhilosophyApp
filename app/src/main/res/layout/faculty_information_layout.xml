@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:id="@+id/faculty_information_layout">
+
+    <ImageView
+        android:src="@drawable/david_benfield"
+        android:layout_marginLeft="10dp"
+        android:layout_width="120dp"
+        android:layout_height="185dp"
+        android:id="@+id/faculty_info_layout_imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/text_layout2_professor_name"
+        android:layout_marginTop="39dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/faculty_info_layout_imageView"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="29dp"
+        android:layout_alignRight="@+id/text_layout2_information"
+        android:layout_alignEnd="@+id/text_layout2_information" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/text_layout2_location"
+        android:layout_below="@+id/text_layout2_professor_name"
+        android:layout_alignLeft="@+id/text_layout2_professor_name"
+        android:layout_alignStart="@+id/text_layout2_professor_name"
+        android:layout_alignRight="@+id/text_layout2_professor_name"
+        android:layout_alignEnd="@+id/text_layout2_professor_name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/text_layout2_phone"
+        android:autoLink="phone"
+        android:layout_below="@+id/text_layout2_location"
+        android:layout_alignLeft="@+id/text_layout2_professor_name"
+        android:layout_alignStart="@+id/text_layout2_professor_name"
+        android:layout_alignRight="@+id/text_layout2_information"
+        android:layout_alignEnd="@+id/text_layout2_information" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/text_layout2_information"
+        android:layout_below="@+id/faculty_info_layout_imageView"
+        android:layout_alignLeft="@+id/faculty_info_layout_imageView"
+        android:layout_alignStart="@+id/faculty_info_layout_imageView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/text_layout2_email"
+        android:autoLink="email"
+        android:layout_below="@+id/text_layout2_phone"
+        android:layout_alignLeft="@+id/text_layout2_phone"
+        android:layout_alignStart="@+id/text_layout2_phone"
+        android:layout_alignRight="@+id/text_layout2_phone"
+        android:layout_alignEnd="@+id/text_layout2_phone" />
+</RelativeLayout>

@@ -1,0 +1,16 @@
+Index: app/src/main/res/values/styles.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/styles.xml	(revision )
++++ app/src/main/res/values/styles.xml	(revision )
+@@ -3,8 +3,6 @@
+     <!-- Base application theme. -->
+     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+         <!-- Customize your theme here. -->
+-        <!-- Main theme colors -->
+-        <item name="android:colorPrimary">#</item>
+     </style>
+ 
+ </resources>
